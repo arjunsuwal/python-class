@@ -1,0 +1,21 @@
+git init -- initializes the git in this file
+git config -- global user.name"Arjun Suwal"
+git config -- global user.email"arjunsuwal900@gmail.com"
+
+
+
+git status -- checks the status of the file
+git add---- adds the file in the git and ready to commit
+git add. --- adds all the file in the git
+
+git branch -- gives the current branch
+git branch branch_name -- makes the new branch
+git checkout branch_name -- switches the branch
+git commit -m'type your message here'-- used to commit the code so that we can upload in the github the are not editable
+git push origin branch_name-- used to push the branched name to the github
+
+git restore --staged filename -- used to unstage or unadd the file
+
+
+git clone 
+git clone URL  to clone the code into one folder from github
